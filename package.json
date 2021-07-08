@@ -1,0 +1,29 @@
+{
+  "name": "javascriptserviceworker",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000J\u0000s\u0000C\u0000u\u0000s\u0000t\u0000o\u0000m\u0000S\u0000e\u0000r\u0000v\u0000i\u0000c\u0000e\u0000W\u0000o\u0000r\u0000k\u0000e\u0000r\u0000\r\u0000 \u0000",
+  "main": "index.mjs",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogagaCodes/JsCustomServiceWorker.git"
+  },
+  "author": "LORD OGAGA ADJARO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ogagaCodes/JsCustomServiceWorker/issues"
+  },
+  "homepage": "https://github.com/ogagaCodes/JsCustomServiceWorker#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "web-push": "^3.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.10"
+  }
+}
